@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: microservice-hystrix-turbine
+server:
+  port: 8031
